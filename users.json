@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "gaurav bhawsar",
+      "email": "gauravbhawsar98@gmail.com",
+      "uname": "gaurav",
+      "password": "socialLogoin",
+      "budget": 10000,
+      "expenses": [
+        {
+          "title": "jsabkjdsab",
+          "amount": 243242
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "harsh khothari",
+      "email": "harsh@gmail.com",
+      "uname": "harsh",
+      "password": "harsh123",
+      "budget": 100000,
+      "expenses": [
+        {
+          "title": "dvs,mxzv",
+          "amount": 23323
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
